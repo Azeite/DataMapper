@@ -1,0 +1,8 @@
+contact name	NN	Name
+contact	NN	Base Phone Number
+address	NN	Address
+date	VBP	Last updated date
+License Number	.	license
+first	RB	Name
+last	JJ	Name
+sex	NN	Gender
